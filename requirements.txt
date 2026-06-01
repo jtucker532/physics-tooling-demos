@@ -1,0 +1,9 @@
+# Pinned versions used to develop and run these examples.
+# Python 3.11, macOS (Apple Silicon).
+# numpy is held at 1.26.x because OQuPy -> tensornetwork requires numpy < 2.
+numpy==1.26.4
+scipy==1.17.1
+matplotlib==3.10.9
+qutip==5.3.0
+oqupy==0.5.0
+emcee==3.1.6
